@@ -1,0 +1,8 @@
+// MiniLang program demonstrating variable assignments and boolean expressions
+var1 = true;
+var2 = false;
+if var1 == true and var2 != true {
+    print "var1 is true and var2 is false";
+} else {
+    print "var1 is false or var2 is true";
+}
